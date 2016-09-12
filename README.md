@@ -12,7 +12,7 @@ Professeur : Emmanuel Château-Dutier
 Bureau : C-2067, UdeM, Pavillon Lionel-Groulx
 Disponibilités : lundi et mardi, 14h-16h ou sur rendez-vous
 Téléphone : +1 (514) 343-6026
-Courriel : emmanuel.chateau.dutier@umontreal.ca
+Courriel : emmanuel.chateau.dutier[@}umontreal.ca
 La correspondance avec le professeur se fait par courriel  et non par l’intermédiaire de la messagerie interne de StudiUM.
 
 Les besoins des musées en informatique : Informatique documentaire et de traitement des données dans les musées, systèmes de classification et d’indexation. Application de l’informatique documentaire et du traitement des données dans les musées, banques de données spécialisées, repérage d’information. Milieu et usager, étude de cas.
