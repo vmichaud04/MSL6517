@@ -120,7 +120,7 @@ En sus des séances, plusieurs visites pourront être organisées en milieu prof
 
 ## Orientations bibliographiques
 
-- Gérad Régimbeau (dir.) *Culture et Musées*, n° 22, Documenter les collections, cataloguer l’exposition. ISBN 978-2-330-02700-1
+- Gérald Régimbeau (dir.) *Culture et Musées*, n° 22, Documenter les collections, cataloguer l’exposition. ISBN 978-2-330-02700-1
   http://www.actes-sud.fr/catalogue/musees-collections-expositions/revue-culture-et-musees-n-22
 
 - Murtha Baca (ed.). *Introduction to Metadata*. 3e édition. Getty, 2016. ISBN 978-0892368969
