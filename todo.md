@@ -9,3 +9,9 @@ https://communication.revues.org/875
 
 
 https://cehistoire.hypotheses.org/248#more-248
+
+
+
+http://www.alastore.ala.org/detail.aspx?ID=11724
+
+http://www.facetpublishing.co.uk/title.php?id=301621#.V9abMjtZNgk
