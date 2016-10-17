@@ -85,8 +85,8 @@ En sus des séances, plusieurs visites pourront être organisées en milieu prof
     http://dublincore.org/documents/dcmi-terms/
   - Traduction français de la spécification DCMI Metadata Terms 
     http://www.bibl.ulaval.ca/dublincore/usageguide-20000716fr.	
-  - htmPage consacrée au Dublin Core sur le site de la BnF	
-    http://www.bnf.fr/fr/professionnels/formats_catalogage/a.f_dublin_core.html
+    - htmPage consacrée au Dublin Core sur le site de la BnF
+      http://www.bnf.fr/fr/professionnels/formats_catalogage/a.f_dublin_core.html
 
 ### 3 octobre 2016 (séance 5) – Taxonomie, thésaurus, et vocabulaires contrôlés
 
@@ -97,12 +97,17 @@ En sus des séances, plusieurs visites pourront être organisées en milieu prof
 
 ### date supplémentaire à déterminer (séance 6) – Introduction au Web sémantique et au Linked Open Data en secteur culturel
 
-- *Projet* : Identification des vocabulaires
+- *Projet* : Identification des vocabulaires pertinents dans notre domaine
 
 ### 31 octobre 2016 (séance 7) – Le modèle CIDOC-CRM
 
 - ICOM
 - Un modèle d’interopérabilité pour le Linked Open Data Culturel
+
+Lectures
+
+- Brigitte Juanals, et Jean-Luc Minel. « La construction d’un espace patrimonial partagé dans le Web de données ouvert. » Communication, Vol. 34, n° 1, 17 août 2016 doi:10.4000/communication.6650. https://communication.revues.org/6650.
+- Biblissima. Introduction au CIDOC-CRM http://doc.biblissima-condorcet.fr/introduction-au-cidoc-crm (lire tous les onglets)
 
 ### 7 novembre 2016 (séance 8) – RDF et RDFs
 
@@ -110,9 +115,20 @@ En sus des séances, plusieurs visites pourront être organisées en milieu prof
 - Notion de schéma et d’ontologie
 - Retour sur CIDOC-CRM
 
+Lectures :
+
+- Berners-Lee, Tim, Ora Lassila, and James Hendler. « Le Web Sémantique. », 2001. http://www.urfist.cict.fr/archive/lettres/lettre28/lettre28-22.html
+- Thomas Baker, Emmanuelle Bermès, Karen Coyle, Gordon Dunsire, Antoine Isaac, Peter Murray, Michael Panzer, _et al_. Rapport final du groupe d’incubation "Bibliothèques et web de données". Groupe d’incubation W3C - Rapport du 25 octobre 2011. http://mediatheque.cite-musique.fr/MediaComposite/ARTICLES/W3C/XGR-lld-fr.html
+- Dominic Oldman. The CIDOC Conceptual Reference Model (CIDOC-CRM): Primer. Donna Kurtz (ed.) version 1. juillet 2014. http://www.cidoc-crm.org/docs/CRMPrimer_v1.1.pdf
+
 ### 14 novembre 2016 (séance 8) – Définition d’une ontologie
 
 - Comment utiliser CIDOC avec la collection
+
+Lectures :
+
+- Pedro Szekely, Craig A. Knoblock, Fengyu Yang, Xuming Zhu, Eleanor E. Fink, Rachel Allen, et Georgina Goodlander. « Connecting the Smithsonian American Art Museum to the Linked Data Cloud. » In *The Semantic Web: Semantics and Big Data*, Lectre Notes in Computer science, vol. 7882, pp. 593-607. http://link.springer.com/chapter/10.1007%2F978-3-642-38288-8_40
+- Victor de Boer, Jan Wielemaker, Judith van Gent, Marijke Oosterbroek, Michiel Hildebrand, Antoine Isaac, et Jacco van Ossenbruggen. « Amsterdam Museum Linked Open Data. » Semantic Web Journal, Vol. 4, n° 3, 2013 : pp. 237-243. http://www.semantic-web-journal.net/content/amsterdam-museum-linked-open-data
 
 ### 21 novembre 2016 (séance 9) – SPARQL et 1ère partie
 
@@ -132,41 +148,39 @@ En sus des séances, plusieurs visites pourront être organisées en milieu prof
 
 ## Orientations bibliographiques
 
-- # 
+- Murtha Baca (ed.). *Introduction to Metadata*. 3e édition. Getty, 2016. ISBN 978-0892368969
+  http://www.getty.edu/publications/intrometadata/
 
-  - Murtha Baca (ed.). *Introduction to Metadata*. 3e édition. Getty, 2016. ISBN 978-0892368969
-    http://www.getty.edu/publications/intrometadata/
+- Emmanuelle Bermès (dir.). *Le Web sémantique en bibliothèque*. « Bibliothèques ». Paris : Édition du Cercle de la Librairie, 2013. ISBN 9782765414179
 
-  - Emmanuelle Bermès (dir.). *Le Web sémantique en bibliothèque*. « Bibliothèques ». Paris : Édition du Cercle de la Librairie, 2013. ISBN 9782765414179
+- Danièle Brochu. *Manuel pratique d’informatisation : Des collections à la base de données*. Paris : Somogy Éditions d’Art. 2004. 319 p. ISBN : 2850566241
 
-  - Danièle Brochu. *Manuel pratique d’informatisation : Des collections à la base de données*. Paris : Somogy Éditions d’Art. 2004. 319 p. ISBN : 2850566241
+- Rebecca A. Buck, Jean Allman Gilmore. *Museum Registration Methods*. 5e édition. Washington : The AAM Press.
 
-  - Rebecca A. Buck, Jean Allman Gilmore. *Museum Registration Methods*. 5e édition. Washington : The AAM Press.
+- Alice Grant, Joséphine Nieuwenhuis, et Toni Petersen. *Recommandations internationales pour la documentation des objets muséaux : Les catégories d’information de CIDOC*. Alexandre Therrien (trad.) CIDOC, 2013 [1995]. ISBN 92-9012-124-6
+  http://network.icom.museum/cidoc/ressources/cidoc-normes/L/2/
 
-  - Alice Grant, Joséphine Nieuwenhuis, et Toni Petersen. *Recommandations internationales pour la documentation des objets muséaux : Les catégories d’information de CIDOC*. Alexandre Therrien (trad.) CIDOC, 2013 [1995]. ISBN 92-9012-124-6
-    http://network.icom.museum/cidoc/ressources/cidoc-normes/L/2/
+- Patricia Harpring. *Introduction to Controlled Vocabularies: Terminologies for Art, Architecture, and Other Cultural Works*. Getty, 2010. ISBN 978-1-60606-027-8
 
-  - Patricia Harpring. *Introduction to Controlled Vocabularies: Terminologies for Art, Architecture, and Other Cultural Works*. Getty, 2010. ISBN 978-1-60606-027-8
+  http://www.getty.edu/publications/virtuallibrary/160606018X.html
 
-    http://www.getty.edu/publications/virtuallibrary/160606018X.html
+- Eero Hyvönen. *Publishing and Using Cultural Heritage Linked Data on the Semantic Web.* Synthesis Lectures on semantic web : Theory and technology. Morgan & Claypool publishers, 2012. ISBN 1608459985
 
-  - Eero Hyvönen. *Publishing and Using Cultural Heritage Linked Data on the Semantic Web.* Synthesis Lectures on semantic web : Theory and technology. Morgan & Claypool publishers, 2012. ISBN 1608459985
+- ICOM. *Comité pour la documentation*. Cahier d’étude n° 3, décembre 1996. ISBN : 92-9012-033-9
+  http://archives.icom.museum/study_series_pdf/3_ICOM-CIDOC.pdf
 
-  - ICOM. *Comité pour la documentation*. Cahier d’étude n° 3, décembre 1996. ISBN : 92-9012-033-9
-    http://archives.icom.museum/study_series_pdf/3_ICOM-CIDOC.pdf
+- Patrick Le Bœuf. « Le modèle conceptuel de référence du CIDOC de la sémantique des inventaires aux musées en dialogue. » *Culture et Musées*, n° 22, Documenter les collections, cataloguer l’exposition, p. 89-112
 
-  - Patrick Le Bœuf. « Le modèle conceptuel de référence du CIDOC de la sémantique des inventaires aux musées en dialogue. » *Culture et Musées*, n° 22, Documenter les collections, cataloguer l’exposition, p. 89-112
+- Seth Van Holland, Ruben Verborgh. *Linked Data for Libraries, Archives and Museums, How to clean, link and publish your metadata.* Facet publishing, 2014. ISBN 9781783300389
 
-  - Seth Van Holland, Ruben Verborgh. *Linked Data for Libraries, Archives and Museums, How to clean, link and publish your metadata.* Facet publishing, 2014. ISBN 9781783300389
+- Claire Merleau-Ponty (dir.). *Documenter les collections de musées. Investigation, inventaire, numérisation et diffusion*. Paris : La documentation française, 2014. 232 p. ISBN : 978-2-11-009548-0 [Cet ouvrage rassemble les articles issus du Séminaire international d’été de muséologie (SIEM) de l’École du Louvre de 2012]
 
-  - Claire Merleau-Ponty (dir.). *Documenter les collections de musées. Investigation, inventaire, numérisation et diffusion*. Paris : La documentation française, 2014. 232 p. ISBN : 978-2-11-009548-0 [Cet ouvrage rassemble les articles issus du Séminaire international d’été de muséologie (SIEM) de l’École du Louvre de 2012]
+- ￼￼￼￼￼￼￼￼Gérald Régimbeau (dir.) *Culture et Musées*, n° 22, Documenter les collections, cataloguer l’exposition. ISBN 978-2-330-02700-1
+  http://www.actes-sud.fr/catalogue/musees-collections-expositions/revue-culture-et-musees-n-22
 
-  - ￼￼￼￼￼￼￼￼Gérald Régimbeau (dir.) *Culture et Musées*, n° 22, Documenter les collections, cataloguer l’exposition. ISBN 978-2-330-02700-1
-    http://www.actes-sud.fr/catalogue/musees-collections-expositions/revue-culture-et-musees-n-22
+- Société des musées du Québec (SMQ). *Normes en gestion des collections*. Montréal : Canada, 2015. ISBN : 978-2-89172-096-0
 
-  - Société des musées du Québec (SMQ). *Normes en gestion des collections*. Montréal : Canada, 2015. ISBN : 978-2-89172-096-0
-
-    http://www.musees.qc.ca/fr/professionnel/publications/smq/normes-en-gestion-des-collections
+  http://www.musees.qc.ca/fr/professionnel/publications/smq/normes-en-gestion-des-collections
 
 ## Évaluation
 
