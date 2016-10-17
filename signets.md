@@ -105,6 +105,14 @@ www.smq.ca/publicsspec/smq/services/infomuse
 
 http://www.rcip.gc.ca
 
+### Wikinotions InfoDoc
+
+http://fadben.asso.fr/wikinotions
+
+### Le vocabulaire de la documentation
+
+http://www.adbs.fr/vocabulaire-de-la-documentation-archive--156488.htm
+
 ## Divers
 
 Global Museum http://www.globalmuseum.org

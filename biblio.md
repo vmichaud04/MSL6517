@@ -1,5 +1,7 @@
 # Orientations bibliographiques
 
+## Ouvrages généraux
+
 - Murtha Baca (ed.). *Introduction to Metadata*. 3e édition. Getty, 2016. ISBN 978-0892368969
   http://www.getty.edu/publications/intrometadata/
   Cette troisième édition d’un ouvrage publié pour la première fois en 1998, présente un panorama général des métadonnées dans le domaine patrimonial et culturel. Il aborde leurs différents genres, leurs rôles et leurs caractéristiques. Les métadonnées sont envisagées en relation à la production de ressources du web et des méthodes de description, des outils, standards et protocoles qui peuvent être employés pour publier et disséminer des collections numériques. 
@@ -9,6 +11,8 @@
 - Emmanuelle Bermès (dir.). *Le Web sémantique en bibliothèque*. « Bibliothèques ». Paris : Édition du Cercle de la Librairie, 2013. ISBN 9782765414179
 
 - Danièle Brochu. *Manuel pratique d’informatisation : Des collections à la base de données*. Paris : Somogy Éditions d’Art. 2004. 319 p. ISBN : 2850566241
+
+- Charlotte Brunskill, Sarah R. Demb. *Records Management for Museums and Galleries*. Chandos Publishing. 278 p. ISBN 9781780632919
 
 - Rebecca A. Buck, Jean Allman Gilmore. *Museum Registration Methods*. 5e édition. Washington : The AAM Press.
 
