@@ -1,0 +1,380 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:217280
+FileModTime:1414170449
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OriyaMN
+FamilyName:Oriya MN
+StyleName:Regular
+MenuName:Oriya MN
+StyleBits:0
+WeightClass:250
+WidthClass:5
+AngleClass:0
+FullName:Oriya MN
+WritingScript:Roman
+OutlineFileName:\Oriya MN.ttc
+TTCOffset:32
+DataFormat:sfntData
+FileLength:482636
+FileModTime:1342180100
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OriyaMN-Bold
+FamilyName:Oriya MN
+StyleName:Bold
+MenuName:Oriya MN
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Oriya MN Bold
+WritingScript:Roman
+OutlineFileName:\Oriya MN.ttc
+TTCOffset:348
+DataFormat:sfntData
+FileLength:482636
+FileModTime:1342180100
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TheMix-ExtraLightItalic
+FamilyName:TheMix
+StyleName:ExtraLight Italic
+MenuName:TheMix 2-ExtraLight
+StyleBits:1
+WeightClass:250
+WidthClass:5
+AngleClass:1
+FullName:TheMix ExtraLight Italic
+WritingScript:Roman
+OutlineFileName:\TheMix-2-XLightIta.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:23888
+FileModTime:1194244826
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TheMix-Light
+FamilyName:TheMix
+StyleName:Light
+MenuName:TheMix 3-Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:TheMix Light
+WritingScript:Roman
+OutlineFileName:\TheMix-3-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:23368
+FileModTime:1194244826
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TheMix-LightItalic
+FamilyName:TheMix
+StyleName:Light Italic
+MenuName:TheMix 3-Light
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:TheMix Light Italic
+WritingScript:Roman
+OutlineFileName:\TheMix-3-LightIta.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:24296
+FileModTime:1194244828
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TheMix-LightItalicExp
+FamilyName:TheMix
+StyleName:Light Italic Expert
+MenuName:TheMix 3-Light Expert
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:TheMix Light Italic Expert
+WritingScript:Roman
+OutlineFileName:\TheMix-3-LightItaExp.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:26648
+FileModTime:1194244828
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TheMix-SemiLight
+FamilyName:TheMix
+StyleName:SemiLight
+MenuName:TheMix 4-SemiLight
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:TheMix SemiLight
+WritingScript:Roman
+OutlineFileName:\TheMix-4-SemiLight.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:23816
+FileModTime:1194244828
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TheMix-SemiBold
+FamilyName:TheMix
+StyleName:SemiBold
+MenuName:TheMix 6-SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:TheMix SemiBold
+WritingScript:Roman
+OutlineFileName:\TheMix-6-SemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:23428
+FileModTime:1194244850
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TheMix-SemiBoldItalic
+FamilyName:TheMix
+StyleName:SemiBold Italic
+MenuName:TheMix 6-SemiBold
+StyleBits:1
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:TheMix SemiBold Italic
+WritingScript:Roman
+OutlineFileName:\TheMix-6-SemiBoldIta.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:24472
+FileModTime:1194244852
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TheMix-Bold
+FamilyName:TheMix
+StyleName:Bold
+MenuName:TheMix 7-Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:TheMix Bold
+WritingScript:Roman
+OutlineFileName:\TheMix-7-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:23758
+FileModTime:1194244852
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TheMix-BoldItalic
+FamilyName:TheMix
+StyleName:Bold Italic
+MenuName:TheMix 7-Bold
+StyleBits:1
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:TheMix Bold Italic
+WritingScript:Roman
+OutlineFileName:\TheMix-7-BoldIta.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:25012
+FileModTime:1194244854
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TheMix-ExtraBold
+FamilyName:TheMix
+StyleName:ExtraBold
+MenuName:TheMix 8-ExtraBold
+StyleBits:0
+WeightClass:800
+WidthClass:5
+AngleClass:0
+FullName:TheMix-ExtraBold
+WritingScript:Roman
+OutlineFileName:\TheMix-8-XBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:23266
+FileModTime:1194244862
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TheMix-Black
+FamilyName:TheMix
+StyleName:Black
+MenuName:TheMix 9-Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:TheMix Black
+WritingScript:Roman
+OutlineFileName:\TheMix-9-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:23064
+FileModTime:1194244866
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TheMixMono-ExtraBold
+FamilyName:TheMixMono
+StyleName:ExtraBold
+MenuName:TheMixMono 8-ExtraBold
+StyleBits:0
+WeightClass:800
+WidthClass:5
+AngleClass:0
+FullName:TheMixMono-ExtraBold
+WritingScript:Roman
+OutlineFileName:\TheMixMono-8-XBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:18944
+FileModTime:1193997906
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TheMixMono-Black
+FamilyName:TheMixMono
+StyleName:Black
+MenuName:TheMixMono 9-Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:TheMixMono-Black
+WritingScript:Roman
+OutlineFileName:\TheMixMono-9-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:18552
+FileModTime:1193997906
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TheSans-SemiLight
+FamilyName:TheSans
+StyleName:SemiLight
+MenuName:TheSans 4-SemiLight
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:TheSans SemiLight
+WritingScript:Roman
+OutlineFileName:\TheSans-4-SemiLight.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28288
+FileModTime:1195657708
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TheSans-BoldPlain
+FamilyName:TheSans
+StyleName:Bold
+MenuName:TheSans 7-Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:TheSans Bold
+WritingScript:Roman
+OutlineFileName:\TheSans-7-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:26956
+FileModTime:1195657724
+%EndFont
+
