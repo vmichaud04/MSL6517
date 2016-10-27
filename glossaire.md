@@ -52,7 +52,7 @@ Dates de rendu :
 
 ### Format (de métadonnées, d’un modèle documentaire)
 
-### FRBR (Functional Requirements for Bibliographic Records)
+### FRBR (Functional Requirements for Bibliographic Records)- Vanessa Michaud
 
 ### FOAF (Friend of a Friend)
 
@@ -70,13 +70,13 @@ Dates de rendu :
 
 ### Profil d’application
 
-### Indexation
+### Indexation- Vanessa Michaud
 
 ### Interopérabilité
 
 ### International Organization for Standardization (ISO)
 
-### Langage documentaire
+### Langage documentaire - Vanessa Michaud
 
 ### LIDO (Lightweight Information Describing Objects)
 
